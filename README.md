@@ -27,5 +27,5 @@ Este es color `#000000` negro.
 #### Links
 
 Puedes crear un link con el nombre en los corchetes [] y el link en paréntesis (). [GitHub](https://github.com/).
-También puedes definir enlaces relativos, por ejemplo [Este README](README.me)
+También puedes definir enlaces relativos, por ejemplo [Este README](docs/README.md)
 
