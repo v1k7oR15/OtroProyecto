@@ -12,5 +12,15 @@ Puedes citar textpo facilmente con ">"
 > Este es un texto citado
 
 También puedes citar código con las comillas invertidas, puedes usarlas facilmente con `ctrl + e` o en macOS `command + e`
+Puedes citar código en bloque por ejemplo:
+```
+git init
+git status
+git commit
+```
 
+#### Modelos de color
+
+Puedes resaltar colores dentro de una oración usando comillas invertidas. Soporta HEX, RGB y HSL.
+Este es color negro `#000000`
 
