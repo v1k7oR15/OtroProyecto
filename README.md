@@ -22,5 +22,9 @@ git commit
 #### Modelos de color
 
 Puedes resaltar colores dentro de una oración usando comillas invertidas. Soporta HEX, RGB y HSL.
-Este es color negro `#000000`
+Este es color `#000000` negro.
+
+#### Links
+
+Puedes crear un link con el nombre en los corchetes [] y el link en paréntesis (). [GitHub] (https://github.com/).
 
