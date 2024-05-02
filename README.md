@@ -34,3 +34,16 @@ También puedes definir enlaces relativos, por ejemplo [Este README](README.md)
 Puedes agregar imágenes con ! y añadiendo un texto breve entre corchetes [] añadiendo el link de la imagen entre paréntesis ().
 ![Logo de GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
+#### Listas
+
+Puedes hacer listas con -, *, +. Por ejemplo:
+- Java
+* Python
++ C++
+
+Puedes ordenar la lista puedes empezar cada linea con un número.
+
+1. Java
+2. Python
+3. C++
+
