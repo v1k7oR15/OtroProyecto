@@ -53,10 +53,10 @@ Existen también las listas anidadas.
   - Primero objeto anidado
     - Segundo objeto anidado
 
-#### Listas de Tareasç
+#### Listas de Tareas
 
 Con un guión, un espacio seguido y unos corchetes [] creas una lista de tareas.
 
-- [] Tarea 1
+- [x] Tarea 1
 - [] Tarea 2
 - [] Tarea 3
