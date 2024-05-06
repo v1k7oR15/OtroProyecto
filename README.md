@@ -97,3 +97,14 @@ Una nota también puede tener varias lineas [^2].
 
 > [!CAUTION]
 > Esto es una advertencia
+
+<!-- Puedes hacer comentarios con la misma sintaxis que en html -->
+
+#### Tablas
+
+Con barras verticales | y guiones - puedes crear tablas.
+
+| Primera columna | Segunda columna |
+| ------------- | ------------- |
+| celda 1  | celda 2  |
+| celda 3  | celda 4  |
