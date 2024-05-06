@@ -108,3 +108,13 @@ Con barras verticales | y guiones - puedes crear tablas.
 | ------------- | ------------- |
 | celda 1  | celda 2  |
 | celda 3  | celda 4  |
+
+#### Secciones colapsadas
+
+<details>
+
+<summary>Esto es una seccion colapsada</summary>
+
+Para hacer una sección colapsada debes escribir <details> <sumary> y posteriormente cerrar estos.
+
+</details>
