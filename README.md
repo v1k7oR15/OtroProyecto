@@ -55,8 +55,17 @@ Existen también las listas anidadas.
 
 #### Listas de Tareas
 
-Con un guión, un espacio seguido y unos corchetes [] creas una lista de tareas.
+Con un guión, un espacio seguido y unos corchetes [ ] creas una lista de tareas.
 
 - [x] Tarea 1
-- [] Tarea 2
-- [] Tarea 3
+- [ ] Tarea 2
+- [ ] Tarea 3
+
+#### Mencionar personas y equipos
+
+Para mencionar a una persona o equipo debes usar el @ mas el nombre del usuario o equipo y esto le enviará una notificación al usuario que menciones
+@github/support esto es una mención.
+
+#### Emojis
+
+Cuando pones : sale una lista de emojis que puedes usar. El emoji se ecribirá entre dos puntos :spain:
