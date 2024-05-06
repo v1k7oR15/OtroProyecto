@@ -80,3 +80,20 @@ Una nota también puede tener varias lineas [^2].
 [^1]: Nota1
 
 [^2]: Nota2
+
+#### Alertas
+
+> [!NOTE]
+> Esto es una nota
+
+> [!TIP]
+> Esto es una ayuda que debes saber
+
+> [!IMPORTANT]
+> Esto es informacion importante
+
+> [!WARNING]
+> Esto es un aviso
+
+> [!CAUTION]
+> Esto es una advertencia
