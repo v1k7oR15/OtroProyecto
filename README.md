@@ -47,3 +47,16 @@ Puedes ordenar la lista puedes empezar cada linea con un número.
 2. Python
 3. C++
 
+Existen también las listas anidadas.
+
+1. Primer objeto de la lista
+  - Primero objeto anidado
+    - Segundo objeto anidado
+
+#### Listas de Tareasç
+
+Con un guión, un espacio seguido y unos corchetes [] creas una lista de tareas.
+
+- [] Tarea 1
+- [] Tarea 2
+- [] Tarea 3
