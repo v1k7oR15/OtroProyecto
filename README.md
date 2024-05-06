@@ -76,3 +76,7 @@ Para escibir una nota a pie de página debes poner ^1 entre corchetes.
 Esta es una nota [^1].
 
 Una nota también puede tener varias lineas [^2].
+
+[^1]: Nota1
+
+[^2]: Nota2
