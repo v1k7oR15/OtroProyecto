@@ -68,4 +68,10 @@ Para mencionar a una persona o equipo debes usar el @ mas el nombre del usuario 
 
 #### Emojis
 
-Cuando pones : sale una lista de emojis que puedes usar. El emoji se ecribirá entre dos puntos :spain:
+Cuando pones : sale una lista de emojis que puedes usar. El emoji se ecribirá entre dos puntos :atom:
+
+#### Notas a pie de página
+
+Para escibir una nota a pie de página debes poner ^1 entre corchetes.
+Esta es una nota [^1]
+Una nota también puede tener varias lineas [^2]
