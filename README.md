@@ -115,7 +115,7 @@ Con barras verticales | y guiones - puedes crear tablas.
 
 <summary>Esto es una seccion colapsada</summary>
 
-Para hacer una sección colapsada debes escribir "<details>" y "<sumary>" y posteriormente cerrar estos.
+Para hacer una sección colapsada debes escribir "< details >" y "< sumary >" y posteriormente cerrar estos.
 
 </details>
 
